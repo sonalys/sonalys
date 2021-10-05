@@ -8,5 +8,5 @@
 - 🏛️ Clean architecture, Unit testing.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonalys&show_icons=true&theme=radical)]()
-[![Alysson's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonalys&count_private=true&show_icons=true&theme=radical)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonalys&show_icons=true&theme=radical)](https://github.com/sonalys#)
+[![Alysson's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonalys&count_private=true&show_icons=true&theme=radical)](https://github.com/sonalys#)
